@@ -20,10 +20,11 @@ Este projeto é um sistema simples de empréstimo de livros desenvolvido em Java
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white): Linguagem de programação utilizada para desenvolver o sistema.
+- **Java**: Linguagem de programação utilizada para desenvolver o sistema.
 - **Java Swing**: Biblioteca gráfica para criar a interface do usuário.
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white): Framework para testes unitários.
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white): Plataforma para versionamento e hospedagem do código.
+- **JUnit**: Framework para testes unitários.
+- **GitHub**: Plataforma para versionamento e hospedagem do código.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
